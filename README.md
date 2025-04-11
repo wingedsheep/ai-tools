@@ -1,10 +1,10 @@
-# AI Tools
+# Vibe Coding Tools
 
-A collection of utility tools designed to improve your workflow with AI and large language models (LLMs).
+A collection of utility tools designed to enhance your vibe coding experience with AI and large language models (LLMs).
 
 ## Context File Creator
 
-A desktop application that helps you prepare code files for input into LLMs like ChatGPT and Claude.
+A desktop application that helps you prepare code files for input into LLMs like ChatGPT and Claude to streamline your vibe coding workflow.
 
 ### Features
 
@@ -19,14 +19,14 @@ A desktop application that helps you prepare code files for input into LLMs like
 1. Select files using buttons or drag and drop
 2. Adjust root folder if needed
 3. Click "Create Markdown" to generate and copy to clipboard
-4. Paste into your preferred AI assistant
+4. Paste into your preferred AI assistant for vibe coding
 
 ### Installation
 
 ```bash
 # Clone and install
-git clone https://github.com/wingedsheep/ai-tools.git
-cd ai-tools
+git clone https://github.com/wingedsheep/vibe-coding-tools.git
+cd vibe-coding-tools
 pip install -r requirements.txt
 
 # Run
